@@ -1,1 +1,4 @@
-print("hello world")
+print("Welcome to Deloitte")
+print("Enter your username : ")
+name = input()
+print("Hi "+name+",")
